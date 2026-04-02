@@ -1,12 +1,6 @@
 
 ---
 
-## ✅ Questões Resolvidas
-
-### Questões 1 a 4
-- Respostas teóricas sobre **Sistemas Especialistas** e **Lógica Fuzzy**.
-- Todas as alternativas corretas foram justificadas com base nos conceitos vistos em aula e no material `Aula LF.pdf`.
-
 ### **Questão 5** (Implementação em R)
 **Parte A**  
 - Definição de **três valores nebulosos** (Baixa, Média e Alta) para cada variável linguística:
