@@ -87,6 +87,3 @@ cat("ENTÃO Quantidade de Turistas é Alta\n\n")
 cat("Regra 2:\n")
 cat("SE Temperatura é Baixa OU Luz do Sol é Baixa\n")
 cat("ENTÃO Quantidade de Turistas é Baixa\n\n")
-
-cat("Pronto! Os 3 gráficos foram gerados e as regras estão definidas.\n")
-cat("Você pode copiar este código inteiro e rodar no R ou RStudio.\n")
